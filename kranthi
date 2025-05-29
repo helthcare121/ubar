@@ -1,1 +1,6 @@
 hello
+this is an update
+// This is a simple JavaScript function to greet the user
+function greetUser(name) {
+    return `Hello, ${name}! Welcome to our website.`;
+}
